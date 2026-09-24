@@ -3,7 +3,7 @@ import React from 'react'
 function ProductsCard({product, del}) {
     // console.log(product);
 
-    
+  
   return (
     <div className='p-4 border-2 rounded flex flex-col gap-4'>
         <div className='w-50 '>
